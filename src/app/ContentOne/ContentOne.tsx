@@ -85,7 +85,7 @@ export default function Component() {
           aria-label="Men's Fashion Category"
         >
           <option disabled selected>
-            Men's Fashion
+            Men&apos;s Fashion
           </option>
           <option value="/About">T-Shirts & Polos</option>
           <option>Jeans & Trousers</option>
