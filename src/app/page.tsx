@@ -323,7 +323,7 @@ export default function Home() {
       <hr className="md:border-1 md:mt-24 md:ml-44 md:mr-40 md:mb-16 border-1 mt-14 ml-10 mr-10 mb-4"></hr>
       <Promise />
       <hr className="md:border-1 md:mt-24 md:ml-44 md:mr-40 md:mb-16 border-1 mt-14 ml-10 mr-10 mb-4"></hr>
-      <Footer />
+      
     </>
   );
 }
